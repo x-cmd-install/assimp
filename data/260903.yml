@@ -1,0 +1,84 @@
+about:
+  description: The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. 
+  license: NOASSERTION
+  homepage: https://www.assimp.org
+  head: 19f7386
+  archived: false
+  latestVersion: v6.0.5
+  collectedAt: 2026-09-03T05:00:44Z
+timeline:
+  created: 2010-05-05
+  lastCommit: 2026-09-02
+  lastRelease: 2026-04-30
+popularity:
+  star: 13174
+  watcher: 299
+  fork: 3227
+  release: 39
+  contributor: 692
+  pullRequest: 370
+  issue: 3384
+language:
+  C++: 18193377
+  COBOL: 2921743
+  C: 2763913
+  Python: 562574
+  CMake: 498426
+  Java: 314987
+  D: 175403
+  Assembly: 138773
+  Rich Text Format: 90002
+  Ada: 89079
+  Pascal: 55964
+  C#: 55627
+  Starlark: 27534
+  Shell: 25779
+  Inno Setup: 9289
+  Makefile: 5809
+  Batchfile: 5653
+  GLSL: 5111
+  JavaScript: 4867
+  Roff: 3323
+  SCSS: 2971
+  HTML: 2317
+  Rust: 2094
+  UnrealScript: 1278
+  Dockerfile: 1234
+  DIGITAL Command Language: 901
+  M4: 787
+  ShaderLab: 718
+  Smarty: 179
+totalLine: 25959712
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 21
+    openPR: 15
+    closedIssue: 6
+    openIssue: 23
+    commit: 57
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 63
+    openPR: 36
+    closedIssue: 12
+    openIssue: 27
+    commit: 135
+  last180d:
+    since: 2026-03-07
+    release: 1
+    mergedPR: 102
+    openPR: 47
+    closedIssue: 31
+    openIssue: 68
+    commit: 209
+  last360d:
+    since: 2025-09-08
+    release: 3
+    mergedPR: 189
+    openPR: 48
+    closedIssue: 60
+    openIssue: 147
+    commit: 352
