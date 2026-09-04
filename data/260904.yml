@@ -4,13 +4,13 @@ about:
     The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. 
   license: NOASSERTION
   homepage: https://www.assimp.org
-  head: a5687d7
+  head: 81cc98f
   archived: false
   latestVersion: v6.0.5
-  collectedAt: 2026-09-04T19:58:13Z
+  collectedAt: 2026-09-04T20:42:22Z
 timeline:
   created: 2010-05-05
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-04
   lastRelease: 2026-04-30
 popularity:
   star: 13177
@@ -21,7 +21,7 @@ popularity:
   pullRequest: 3180
   issue: 3384
 language:
-  C++: 18194329
+  C++: 18195587
   COBOL: 2921743
   C: 2763913
   Python: 562574
@@ -50,64 +50,292 @@ language:
   M4: 787
   ShaderLab: 718
   Smarty: 179
-totalBytes: 25960664
+totalBytes: 25961922
 recent:
   last30d:
     since: 2026-08-05
     release: 0
-    mergedPR: 21
-    openPR: 16
-    closedIssue: 6
-    openIssue: 23
-    commit: 63
+    mergedPR: 22
+    openPR: 15
+    closedIssue: 7
+    openIssue: 22
+    commit: 65
   last60d:
     since: 2026-07-06
     release: 0
-    mergedPR: 37
-    openPR: 28
-    closedIssue: 8
-    openIssue: 23
-    commit: 94
+    mergedPR: 38
+    openPR: 27
+    closedIssue: 9
+    openIssue: 22
+    commit: 96
   last90d:
     since: 2026-06-06
     release: 0
-    mergedPR: 63
-    openPR: 37
-    closedIssue: 12
-    openIssue: 27
-    commit: 141
+    mergedPR: 64
+    openPR: 36
+    closedIssue: 13
+    openIssue: 26
+    commit: 143
   last180d:
     since: 2026-03-08
     release: 1
-    mergedPR: 103
-    openPR: 46
-    closedIssue: 31
-    openIssue: 68
-    commit: 215
+    mergedPR: 104
+    openPR: 45
+    closedIssue: 32
+    openIssue: 67
+    commit: 217
   last360d:
     since: 2025-09-09
     release: 3
-    mergedPR: 190
-    openPR: 47
-    closedIssue: 59
-    openIssue: 147
-    commit: 358
+    mergedPR: 191
+    openPR: 46
+    closedIssue: 60
+    openIssue: 146
+    commit: 360
   last720d:
     since: 2024-09-14
     release: 6
-    mergedPR: 404
-    openPR: 48
-    closedIssue: 220
-    openIssue: 269
-    commit: 426
+    mergedPR: 405
+    openPR: 47
+    closedIssue: 221
+    openIssue: 268
+    commit: 427
 total:
   release: 39
-  mergedPR: 2811
-  openPR: 48
-  closedIssue: 2896
-  openIssue: 488
-  commit: 12963
+  mergedPR: 2812
+  openPR: 47
+  closedIssue: 2897
+  openIssue: 487
+  commit: 12964
 ---
+path: /home/runner/.x-repo/github.com/assimp/assimp
+collectedAt: 2026-09-04T20:42:30Z
+loc:
+  Cpp:
+    code: 213131
+    comments: 53091
+    blanks: 39062
+    files: 743
+  Alex:
+    code: 143084
+    comments: 0
+    blanks: 2345
+    files: 14
+  CHeader:
+    code: 116968
+    comments: 61604
+    blanks: 25471
+    files: 728
+  Cobol:
+    code: 65764
+    comments: 1
+    blanks: 4
+    files: 8
+  Xml:
+    code: 41658
+    comments: 13
+    blanks: 60
+    files: 15
+  C:
+    code: 19356
+    comments: 4167
+    blanks: 3563
+    files: 44
+  CppHeader:
+    code: 12712
+    comments: 4570
+    blanks: 2609
+    files: 43
+  Python:
+    code: 10826
+    comments: 2818
+    blanks: 2420
+    files: 52
+  CMake:
+    code: 9367
+    comments: 2275
+    blanks: 1544
+    files: 75
+  Html:
+    code: 2370
+    comments: 0
+    blanks: 4
+    files: 6
+  Java:
+    code: 2303
+    comments: 6210
+    blanks: 1322
+    files: 42
+  Autoconf:
+    code: 1774
+    comments: 3949
+    blanks: 1344
+    files: 19
+  Ada:
+    code: 1681
+    comments: 560
+    blanks: 599
+    files: 10
+  AssemblyGAS:
+    code: 1528
+    comments: 748
+    blanks: 475
+    files: 4
+  Assembly:
+    code: 1509
+    comments: 458
+    blanks: 541
+    files: 4
+  Pascal:
+    code: 1385
+    comments: 231
+    blanks: 324
+    files: 16
+  CSharp:
+    code: 879
+    comments: 506
+    blanks: 230
+    files: 9
+  Svg:
+    code: 826
+    comments: 2
+    blanks: 1
+    files: 2
+  D:
+    code: 786
+    comments: 3826
+    blanks: 419
+    files: 16
+  ModuleDef:
+    code: 765
+    comments: 47
+    blanks: 75
+    files: 6
+  Glsl:
+    code: 689
+    comments: 0
+    blanks: 0
+    files: 13
+  ObjectiveCpp:
+    code: 574
+    comments: 118
+    blanks: 215
+    files: 2
+  Sh:
+    code: 508
+    comments: 167
+    blanks: 99
+    files: 9
+  Sass:
+    code: 165
+    comments: 3
+    blanks: 37
+    files: 2
+  MsBuild:
+    code: 140
+    comments: 0
+    blanks: 1
+    files: 1
+  Batch:
+    code: 122
+    comments: 12
+    blanks: 29
+    files: 5
+  Makefile:
+    code: 112
+    comments: 25
+    blanks: 74
+    files: 3
+  ReStructuredText:
+    code: 58
+    comments: 0
+    blanks: 33
+    files: 1
+  Yaml:
+    code: 58
+    comments: 0
+    blanks: 0
+    files: 3
+  Json:
+    code: 53
+    comments: 0
+    blanks: 0
+    files: 1
+  JavaScript:
+    code: 49
+    comments: 66
+    blanks: 7
+    files: 4
+  Rust:
+    code: 37
+    comments: 16
+    blanks: 8
+    files: 2
+  Automake:
+    code: 34
+    comments: 0
+    blanks: 11
+    files: 1
+  Toml:
+    code: 31
+    comments: 1
+    blanks: 6
+    files: 2
+  UnrealScript:
+    code: 28
+    comments: 2
+    blanks: 10
+    files: 2
+  Hlsl:
+    code: 26
+    comments: 0
+    blanks: 6
+    files: 2
+  Bitbake:
+    code: 25
+    comments: 29
+    blanks: 3
+    files: 1
+  Dockerfile:
+    code: 17
+    comments: 15
+    blanks: 7
+    files: 2
+  ShaderLab:
+    code: 10
+    comments: 19
+    blanks: 7
+    files: 1
+  Pan:
+    code: 8
+    comments: 0
+    blanks: 2
+    files: 1
+  ObjectiveC:
+    code: 5
+    comments: 7
+    blanks: 2
+    files: 1
+  Poke:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 17457
+    blanks: 4733
+    files: 112
+  Text:
+    code: 0
+    comments: 4323
+    blanks: 1002
+    files: 105
+total:
+  code: 652590
+  comments: 167460
+  blanks: 88894
+  files: 2133
 ---
 date: "2026-08-24"
 repo:
