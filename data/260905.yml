@@ -7,7 +7,7 @@ about:
   head: 81cc98f
   archived: false
   latestVersion: v6.0.5
-  collectedAt: 2026-09-05T04:40:32Z
+  collectedAt: 2026-09-05T18:51:39Z
 timeline:
   created: 2010-05-05
   lastCommit: 2026-09-04
@@ -15,7 +15,7 @@ timeline:
 popularity:
   star: 13177
   watcher: 299
-  fork: 3230
+  fork: 3231
   release: 39
   contributor: 692
   pullRequest: 3180
@@ -109,7 +109,7 @@ total:
   commit: 12964
 ---
 path: /home/runner/.x-repo/github.com/assimp/assimp
-collectedAt: 2026-09-05T04:40:41Z
+collectedAt: 2026-09-05T18:51:47Z
 loc:
   Cpp:
     code: 213131
