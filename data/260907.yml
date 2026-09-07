@@ -5,7 +5,7 @@ about:
   head: 7555cc9
   archived: false
   latestVersion: "v6.0.5"
-  collectedAt: 2026-09-07T04:37:13Z
+  collectedAt: 2026-09-07T19:50:40Z
 timeline:
   created: 2010-05-05
   lastCommit: 2026-09-06
@@ -107,7 +107,7 @@ total:
   commit: 12965
 ---
 path: /home/runner/.x-repo/github.com/assimp/assimp
-collectedAt: 2026-09-07T04:37:30Z
+collectedAt: 2026-09-07T19:51:04Z
 loc:
   Cpp:
     code: 213139
@@ -462,7 +462,7 @@ checks:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:37:34+00:00
+  collectedAt: 2026-09-07T19:51:09+00:00
   platform:
     darwin/arm64:
       name:  macos-arm64-v6.0.5.zip
