@@ -5,13 +5,13 @@ about:
   head: 7555cc9
   archived: false
   latestVersion: "v6.0.5"
-  collectedAt: 2026-09-08T01:50:48Z
+  collectedAt: 2026-09-08T04:38:30Z
 timeline:
   created: 2010-05-05
   lastCommit: 2026-09-06
   lastRelease: 2026-04-30
 popularity:
-  star: 13182
+  star: 13183
   watcher: 300
   fork: 3233
   release: 39
@@ -107,7 +107,7 @@ total:
   commit: 12965
 ---
 path: /home/runner/.x-repo/github.com/assimp/assimp
-collectedAt: 2026-09-08T01:51:05Z
+collectedAt: 2026-09-08T04:38:45Z
 loc:
   Cpp:
     code: 213139
