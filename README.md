@@ -7,7 +7,7 @@ The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats i
 - **Latest release**: `v6.0.5` (2026-04-30)
 - **Last commit**: 2026-09-08
 - **License**: NOASSERTION
-- **Stars**: 13186 · **Forks**: 3236 · **Open issues**: 3385 · **Contributors**: 694
+- **Stars**: 13187 · **Forks**: 3235 · **Open issues**: 3385 · **Contributors**: 694
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/assimp> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:43:40Z._
+_Last regenerated: 2026-09-09T18:56:42Z._
