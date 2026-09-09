@@ -7,7 +7,7 @@ about:
   latestVersion: "v6.0.5"
   latestRelease: "v6.0.5"
   latestPrerelease: "v5.1.0.rc1"
-  collectedAt: 2026-09-09T04:42:45Z
+  collectedAt: 2026-09-09T18:56:14Z
 timeline:
   created: 2010-05-05
   lastCommit: 2026-09-08
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-04-30
   lastPrerelease: 2021-10-19
 popularity:
-  star: 13186
+  star: 13187
   watcher: 300
-  fork: 3236
+  fork: 3235
   release: 39
   contributor: 694
-  pullRequest: 3187
+  pullRequest: 3188
   issue: 3385
 language:
   C++: 18206487
@@ -58,7 +58,7 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 22
-    openPR: 19
+    openPR: 20
     closedIssue: 6
     openIssue: 21
     commit: 64
@@ -66,7 +66,7 @@ recent:
     since: 2026-07-11
     release: 0
     mergedPR: 38
-    openPR: 29
+    openPR: 30
     closedIssue: 9
     openIssue: 23
     commit: 95
@@ -74,7 +74,7 @@ recent:
     since: 2026-06-11
     release: 0
     mergedPR: 59
-    openPR: 38
+    openPR: 39
     closedIssue: 12
     openIssue: 27
     commit: 143
@@ -82,7 +82,7 @@ recent:
     since: 2026-03-13
     release: 1
     mergedPR: 108
-    openPR: 48
+    openPR: 49
     closedIssue: 30
     openIssue: 61
     commit: 222
@@ -90,7 +90,7 @@ recent:
     since: 2025-09-14
     release: 3
     mergedPR: 194
-    openPR: 49
+    openPR: 50
     closedIssue: 60
     openIssue: 144
     commit: 369
@@ -98,20 +98,20 @@ recent:
     since: 2024-09-19
     release: 6
     mergedPR: 407
-    openPR: 50
+    openPR: 51
     closedIssue: 220
     openIssue: 267
     commit: 433
 total:
   release: 39
   mergedPR: 2816
-  openPR: 50
+  openPR: 51
   closedIssue: 2897
   openIssue: 488
   commit: 12973
 ---
 path: /home/runner/.x-repo/github.com/assimp/assimp
-collectedAt: 2026-09-09T04:43:08Z
+collectedAt: 2026-09-09T18:56:31Z
 loc:
   Cpp:
     code: 213333
@@ -465,6 +465,6 @@ checks:
     details:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
-  - libassimp.so.6
   - libassimp.so
   - libassimp.so.6.0.5
+  - libassimp.so.6
