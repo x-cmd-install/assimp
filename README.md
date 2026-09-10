@@ -23,11 +23,19 @@ x install assimp
 - **Latest**: `v6.0.5` (2026-04-30)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 4
-- **Published**: 2026-04-30T20:25:12Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [linux-x64-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/linux-x64-v6.0.5.zip) | 13.7 MiB | `other` |
+| [macos-arm64-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/macos-arm64-v6.0.5.zip) | 8.4 MiB | `native/darwin/arm64` |
+| [windows-x64-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/windows-x64-v6.0.5.zip) | 17.1 MiB | `native/win/x64` |
+| [windows-x86-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/windows-x86-v6.0.5.zip) | 16.9 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 13,187 · **Forks**: 3,235 · **Open issues**: 3,385 · **Contributors**: 695
+- **Stars**: 13,190 · **Forks**: 3,235 · **Open issues**: 3,385 · **Contributors**: 695
 
 ## Totals (cumulative)
 
@@ -68,8 +76,8 @@ Lowest-scoring checks:
 Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `assimp` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/assimp.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/assimp.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:48:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:18:25Z._

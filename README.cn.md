@@ -4,7 +4,7 @@
 
 The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. 
 
-![assimp](https://repo.x-cmd.io/assimp.svg)
+![assimp](https://repo.x-cmd.io/assimp.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,19 @@ x install assimp
 - **最新版本**: `v6.0.5` (2026-04-30)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-04-30T20:25:12Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [linux-x64-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/linux-x64-v6.0.5.zip) | 13.7 MiB | `other` |
+| [macos-arm64-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/macos-arm64-v6.0.5.zip) | 8.4 MiB | `native/darwin/arm64` |
+| [windows-x64-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/windows-x64-v6.0.5.zip) | 17.1 MiB | `native/win/x64` |
+| [windows-x86-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/windows-x86-v6.0.5.zip) | 16.9 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 13,187 · **Fork**: 3,235 · **开放 issue**: 3,385 · **贡献者**: 695
+- **Star**: 13,190 · **Fork**: 3,235 · **开放 issue**: 3,385 · **贡献者**: 695
 
 ## 累计统计
 
@@ -72,4 +80,4 @@ assimp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:48:05Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:18:26Z._
