@@ -48,7 +48,7 @@ x install assimp
 
 ## 流行度
 
-- **Star**: 13,193 · **Fork**: 3,235 · **开放 issue**: 3,384 · **贡献者**: 695
+- **Star**: 13,195 · **Fork**: 3,234 · **开放 issue**: 3,384 · **贡献者**: 695
 
 ## 累计统计
 
@@ -76,7 +76,7 @@ x install assimp
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/assimp) 上共有 **205** 个发行版报告此项目。**44** 个 ✅ 已是最新上游版本，**128** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/assimp) 上共有 **204** 个发行版报告此项目。**43** 个 ✅ 已是最新上游版本，**128** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -86,7 +86,7 @@ x install assimp
 | Ubuntu 26.04 LTS | `6.0.4` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `5.3.1` | ⚠️ outdated |
 | Arch | `6.0.5` | ✅ latest |
-| Homebrew | `6.0.5` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `6.0.5` | ✅ latest |
 | Nix unstable | `6.0.5` | ✅ latest |
 | Void | `5.2.5` | ⚠️ outdated |
@@ -102,4 +102,4 @@ assimp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T04:35:50Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T20:35:43Z._
