@@ -7,7 +7,7 @@ about:
   latestVersion: "v6.0.5"
   latestRelease: "v6.0.5"
   latestPrerelease: "v5.1.0.rc1"
-  collectedAt: 2026-09-11T04:35:16Z
+  collectedAt: 2026-09-11T20:35:07Z
 timeline:
   created: 2010-05-05
   lastCommit: 2026-09-09
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-04-30
   lastPrerelease: 2021-10-19
 popularity:
-  star: 13193
+  star: 13195
   watcher: 300
-  fork: 3235
+  fork: 3234
   release: 39
   contributor: 695
   pullRequest: 3188
@@ -111,7 +111,7 @@ total:
   commit: 12974
 ---
 path: /home/runner/.x-repo/github.com/assimp/assimp
-collectedAt: 2026-09-11T04:35:38Z
+collectedAt: 2026-09-11T20:35:30Z
 loc:
   Cpp:
     code: 213353
@@ -465,6 +465,6 @@ checks:
     details:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
-  - libassimp.so.6
   - libassimp.so
+  - libassimp.so.6
   - libassimp.so.6.0.5
