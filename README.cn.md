@@ -58,12 +58,12 @@ x install assimp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 21 | 18 | 5 | 14 | 54 |
-| last60d | 2026-07-15 | 0 | 37 | 29 | 8 | 24 | 93 |
-| 90d | 2026-06-15 | 0 | 54 | 37 | 13 | 26 | 142 |
-| last180d | 2026-03-17 | 1 | 108 | 48 | 30 | 59 | 220 |
-| 360d | 2025-09-18 | 3 | 194 | 49 | 60 | 141 | 362 |
-| last720d | 2024-09-23 | 6 | 408 | 50 | 216 | 265 | 434 |
+| 30d | 2026-08-15 | 0 | 21 | 18 | 5 | 14 | 54 |
+| last60d | 2026-07-16 | 0 | 36 | 28 | 8 | 24 | 93 |
+| 90d | 2026-06-16 | 0 | 53 | 36 | 13 | 26 | 142 |
+| last180d | 2026-03-18 | 1 | 108 | 48 | 30 | 59 | 220 |
+| 360d | 2025-09-19 | 3 | 194 | 49 | 59 | 140 | 362 |
+| last720d | 2024-09-24 | 6 | 408 | 50 | 215 | 265 | 434 |
 
 ## Release 资产
 
@@ -74,25 +74,6 @@ x install assimp
 | [windows-x64-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/windows-x64-v6.0.5.zip) | 17.1 MiB | `native/win/x64` |
 | [windows-x86-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/windows-x86-v6.0.5.zip) | 16.9 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/assimp) 上共有 **204** 个发行版报告此项目。**43** 个 ✅ 已是最新上游版本，**128** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `6.0.5` | ✅ latest |
-| Debian 14 | `6.0.5` | ✅ latest |
-| Debian 13 | `5.4.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `6.0.4` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `5.3.1` | ⚠️ outdated |
-| Arch | `6.0.5` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `6.0.5` | ✅ latest |
-| Nix unstable | `6.0.5` | ✅ latest |
-| Void | `5.2.5` | ⚠️ outdated |
-| Alpine edge | `6.0.4` | ⚠️ outdated |
-| openSUSE Tumbleweed | `6.0.5` | ✅ latest |
-
 ## 改进这些数据
 
 assimp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `assimp` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -102,4 +83,4 @@ assimp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T04:52:16Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T04:52:20Z._
