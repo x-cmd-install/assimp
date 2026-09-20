@@ -4,7 +4,7 @@
 
 The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. 
 
-![assimp](https://repo.x-cmd.io/assimp.svg)
+[![x-cmd/install — assimp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/assimp.svg)](https://x-cmd.com/install/assimp)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,208 · **Forks**: 3,237 · **Open issues**: 3,386 · **Contributors**: 697
+- **Stars**: 13,210 · **Forks**: 3,239 · **Open issues**: 3,387 · **Contributors**: 697
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 2822 · **Open PRs**: 74 · **Closed issues**: 2901 · **Open issues**: 485 · **Commits**: 12979
+- **Releases**: 39 · **Merged PRs**: 2822 · **Open PRs**: 76 · **Closed issues**: 2901 · **Open issues**: 486 · **Commits**: 12979
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 22 | 41 | 5 | 14 | 64 |
-| last60d | 2026-07-20 | 0 | 40 | 49 | 8 | 25 | 103 |
-| 90d | 2026-06-20 | 0 | 55 | 59 | 13 | 25 | 152 |
-| last180d | 2026-03-22 | 1 | 112 | 72 | 28 | 49 | 230 |
-| 360d | 2025-09-23 | 3 | 198 | 73 | 62 | 138 | 370 |
-| last720d | 2024-09-28 | 6 | 412 | 74 | 218 | 263 | 437 |
+| 30d | 2026-08-21 | 0 | 20 | 40 | 4 | 6 | 51 |
+| last60d | 2026-07-22 | 0 | 38 | 49 | 8 | 26 | 103 |
+| 90d | 2026-06-22 | 0 | 54 | 61 | 10 | 26 | 137 |
+| last180d | 2026-03-24 | 1 | 111 | 74 | 28 | 50 | 229 |
+| 360d | 2025-09-25 | 3 | 198 | 75 | 62 | 139 | 367 |
+| last720d | 2024-09-30 | 6 | 412 | 76 | 218 | 264 | 437 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:47:57Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:51:16Z._

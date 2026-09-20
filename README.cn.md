@@ -4,7 +4,7 @@
 
 The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. 
 
-![assimp](https://repo.x-cmd.io/assimp.svg?lang=zh)
+[![x-cmd/install — assimp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/assimp.svg?lang=zh)](https://x-cmd.com/install/assimp)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install assimp
 
 ## 流行度
 
-- **Star**: 13,208 · **Fork**: 3,237 · **开放 issue**: 3,386 · **贡献者**: 697
+- **Star**: 13,210 · **Fork**: 3,239 · **开放 issue**: 3,387 · **贡献者**: 697
 
 ## 累计统计
 
-- **发布数**: 39 · **已合并 PR**: 2822 · **开放 PR**: 74 · **已关闭 issue**: 2901 · **开放 issue**: 485 · **提交数**: 12979
+- **发布数**: 39 · **已合并 PR**: 2822 · **开放 PR**: 76 · **已关闭 issue**: 2901 · **开放 issue**: 486 · **提交数**: 12979
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 22 | 41 | 5 | 14 | 64 |
-| last60d | 2026-07-20 | 0 | 40 | 49 | 8 | 25 | 103 |
-| 90d | 2026-06-20 | 0 | 55 | 59 | 13 | 25 | 152 |
-| last180d | 2026-03-22 | 1 | 112 | 72 | 28 | 49 | 230 |
-| 360d | 2025-09-23 | 3 | 198 | 73 | 62 | 138 | 370 |
-| last720d | 2024-09-28 | 6 | 412 | 74 | 218 | 263 | 437 |
+| 30d | 2026-08-21 | 0 | 20 | 40 | 4 | 6 | 51 |
+| last60d | 2026-07-22 | 0 | 38 | 49 | 8 | 26 | 103 |
+| 90d | 2026-06-22 | 0 | 54 | 61 | 10 | 26 | 137 |
+| last180d | 2026-03-24 | 1 | 111 | 74 | 28 | 50 | 229 |
+| 360d | 2025-09-25 | 3 | 198 | 75 | 62 | 139 | 367 |
+| last720d | 2024-09-30 | 6 | 412 | 76 | 218 | 264 | 437 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ assimp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:47:58Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:51:17Z._
