@@ -4,7 +4,7 @@
 
 The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. 
 
-[![x-cmd/install — assimp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/assimp.svg)](https://x-cmd.com/install/assimp)
+[![x-cmd/install — assimp Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/assimp.svg)](https://x-cmd.com/install/assimp)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,216 · **Forks**: 3,241 · **Open issues**: 3,388 · **Contributors**: 699
+- **Stars**: 13,218 · **Forks**: 3,242 · **Open issues**: 3,388 · **Contributors**: 699
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 2826 · **Open PRs**: 73 · **Closed issues**: 2904 · **Open issues**: 484 · **Commits**: 12983
+- **Releases**: 39 · **Merged PRs**: 2826 · **Open PRs**: 75 · **Closed issues**: 2904 · **Open issues**: 484 · **Commits**: 12983
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 23 | 32 | 5 | 6 | 62 |
-| last60d | 2026-07-24 | 0 | 42 | 46 | 9 | 26 | 114 |
-| 90d | 2026-06-24 | 0 | 58 | 58 | 11 | 26 | 148 |
-| last180d | 2026-03-26 | 1 | 115 | 71 | 30 | 49 | 240 |
-| 360d | 2025-09-27 | 3 | 202 | 72 | 64 | 137 | 378 |
-| last720d | 2024-10-02 | 6 | 415 | 73 | 221 | 262 | 441 |
+| 30d | 2026-08-24 | 0 | 19 | 33 | 3 | 5 | 62 |
+| last60d | 2026-07-25 | 0 | 42 | 48 | 9 | 26 | 114 |
+| 90d | 2026-06-25 | 0 | 58 | 60 | 11 | 26 | 148 |
+| last180d | 2026-03-27 | 1 | 114 | 73 | 30 | 49 | 240 |
+| 360d | 2025-09-28 | 3 | 202 | 74 | 64 | 137 | 378 |
+| last720d | 2024-10-03 | 6 | 415 | 75 | 221 | 262 | 440 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:53:34Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:56:30Z._
