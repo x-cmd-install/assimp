@@ -31,8 +31,8 @@ Overall score: **7.2 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,258 · **Forks**: 3,252 · **Open issues**: 3,394 · **Contributors**: 703
+- **Stars**: 13,261 · **Forks**: 3,252 · **Open issues**: 3,395 · **Contributors**: 703
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 2845 · **Open PRs**: 83 · **Closed issues**: 2909 · **Open issues**: 485 · **Commits**: 13005
+- **Releases**: 39 · **Merged PRs**: 2845 · **Open PRs**: 87 · **Closed issues**: 2909 · **Open issues**: 486 · **Commits**: 13005
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 20 | 41 | 2 | 7 | 52 |
-| last60d | 2026-08-13 | 0 | 43 | 58 | 8 | 20 | 122 |
-| 90d | 2026-07-14 | 0 | 63 | 65 | 12 | 29 | 154 |
-| last180d | 2026-04-15 | 1 | 130 | 79 | 35 | 49 | 269 |
-| 360d | 2025-10-17 | 3 | 215 | 82 | 69 | 133 | 413 |
-| last720d | 2024-10-22 | 6 | 413 | 83 | 216 | 257 | 451 |
+| 30d | 2026-09-13 | 0 | 20 | 45 | 2 | 8 | 52 |
+| last60d | 2026-08-14 | 0 | 42 | 62 | 8 | 21 | 122 |
+| 90d | 2026-07-15 | 0 | 62 | 69 | 12 | 30 | 154 |
+| last180d | 2026-04-16 | 1 | 130 | 83 | 35 | 50 | 269 |
+| 360d | 2025-10-18 | 3 | 215 | 86 | 69 | 134 | 413 |
+| last720d | 2024-10-23 | 6 | 413 | 87 | 216 | 257 | 450 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T05:52:02Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:50:29Z._
