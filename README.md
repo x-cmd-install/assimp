@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,282 · **Forks**: 3,259 · **Open issues**: 3,412 · **Contributors**: 704
+- **Stars**: 13,280 · **Forks**: 3,259 · **Open issues**: 3,412 · **Contributors**: 703
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 2849 · **Open PRs**: 98 · **Closed issues**: 2912 · **Open issues**: 500 · **Commits**: 13010
+- **Releases**: 39 · **Merged PRs**: 2849 · **Open PRs**: 93 · **Closed issues**: 2912 · **Open issues**: 500 · **Commits**: 13010
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 12 | 34 | 1 | 23 | 36 |
-| last60d | 2026-08-23 | 0 | 39 | 64 | 6 | 29 | 112 |
-| 90d | 2026-07-24 | 0 | 60 | 76 | 13 | 46 | 160 |
-| last180d | 2026-04-25 | 1 | 128 | 94 | 34 | 64 | 270 |
-| 360d | 2025-10-27 | 3 | 213 | 97 | 67 | 148 | 414 |
-| last720d | 2024-11-01 | 6 | 412 | 98 | 214 | 269 | 448 |
+| 30d | 2026-09-23 | 0 | 12 | 28 | 1 | 23 | 35 |
+| last60d | 2026-08-24 | 0 | 35 | 58 | 4 | 28 | 111 |
+| 90d | 2026-07-25 | 0 | 60 | 71 | 13 | 46 | 159 |
+| last180d | 2026-04-26 | 1 | 127 | 89 | 34 | 64 | 269 |
+| 360d | 2025-10-28 | 3 | 212 | 92 | 67 | 148 | 413 |
+| last720d | 2024-11-02 | 6 | 411 | 93 | 212 | 269 | 447 |
 
 ## Release assets
 
@@ -74,6 +74,25 @@ Lowest-scoring checks:
 | [windows-x64-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/windows-x64-v6.0.5.zip) | 17.1 MiB | `native/win/x64` |
 | [windows-x86-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/windows-x86-v6.0.5.zip) | 16.9 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **201** distros on [repology.org](https://repology.org/project/assimp). **47** are ✅ on the latest upstream release, **120** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `6.0.5` | ✅ latest |
+| Debian 14 | `6.0.5` | ✅ latest |
+| Debian 13 | `5.4.3` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `6.0.4` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `5.3.1` | ⚠️ outdated |
+| Arch | `6.0.5` | ✅ latest |
+| Homebrew | `6.0.5` | ✅ latest |
+| Fedora rawhide | `6.0.5` | ✅ latest |
+| Nix unstable | `6.0.5` | ✅ latest |
+| Void | `5.2.5` | ⚠️ outdated |
+| Alpine edge | `6.0.4` | ⚠️ outdated |
+| openSUSE Tumbleweed | `6.0.5` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `assimp` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +102,4 @@ Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:43:23Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:45:43Z._
