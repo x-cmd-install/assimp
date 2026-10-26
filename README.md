@@ -14,13 +14,13 @@ x install assimp
 
 ## Code insight
 
-Total: **652,445** lines of code across **1509** files in the top 5 languages.
+Total: **652,698** lines of code across **1509** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 214,016 | 53,245 | 39,193 | 744 |
+| Cpp | 214,208 | 53,271 | 39,220 | 744 |
 | Alex | 143,084 | 0 | 2,345 | 14 |
-| CHeader | 117,002 | 61,634 | 25,484 | 728 |
+| CHeader | 117,063 | 61,617 | 25,481 | 728 |
 | Cobol | 65,764 | 1 | 4 | 8 |
 | Xml | 41,658 | 13 | 60 | 15 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v6.0.5` (2026-04-30)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-25
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 13,283 · **Forks**: 3,258 · **Open issues**: 3,415 · **Contributors**: 703
+- **Stars**: 13,284 · **Forks**: 3,256 · **Open issues**: 3,415 · **Contributors**: 703
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 2854 · **Open PRs**: 107 · **Closed issues**: 2913 · **Open issues**: 502 · **Commits**: 13015
+- **Releases**: 39 · **Merged PRs**: 2858 · **Open PRs**: 105 · **Closed issues**: 2913 · **Open issues**: 502 · **Commits**: 13019
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 14 | 42 | 1 | 26 | 36 |
-| last60d | 2026-08-26 | 0 | 38 | 72 | 3 | 31 | 100 |
-| 90d | 2026-07-27 | 0 | 61 | 85 | 13 | 48 | 158 |
-| last180d | 2026-04-28 | 1 | 132 | 103 | 31 | 66 | 267 |
-| 360d | 2025-10-30 | 3 | 217 | 106 | 68 | 150 | 414 |
-| last720d | 2024-11-04 | 6 | 415 | 107 | 208 | 271 | 451 |
+| 30d | 2026-09-26 | 0 | 16 | 42 | 1 | 26 | 44 |
+| last60d | 2026-08-27 | 0 | 38 | 72 | 3 | 31 | 108 |
+| 90d | 2026-07-28 | 0 | 62 | 85 | 13 | 48 | 166 |
+| last180d | 2026-04-29 | 1 | 135 | 101 | 30 | 64 | 275 |
+| 360d | 2025-10-31 | 3 | 221 | 104 | 68 | 150 | 422 |
+| last720d | 2024-11-05 | 6 | 419 | 105 | 208 | 271 | 455 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:37:22Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:39:37Z._
