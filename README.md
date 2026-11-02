@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,297 · **Forks**: 3,264 · **Open issues**: 3,434 · **Contributors**: 708
+- **Stars**: 13,300 · **Forks**: 3,265 · **Open issues**: 3,443 · **Contributors**: 708
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 2874 · **Open PRs**: 102 · **Closed issues**: 2923 · **Open issues**: 511 · **Commits**: 13034
+- **Releases**: 39 · **Merged PRs**: 2874 · **Open PRs**: 103 · **Closed issues**: 2929 · **Open issues**: 514 · **Commits**: 13034
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 22 | 42 | 3 | 41 | 58 |
-| last60d | 2026-09-02 | 0 | 42 | 77 | 5 | 46 | 111 |
-| 90d | 2026-08-03 | 0 | 69 | 85 | 17 | 63 | 186 |
-| last180d | 2026-05-05 | 0 | 149 | 98 | 32 | 75 | 300 |
-| 360d | 2025-11-06 | 3 | 238 | 101 | 77 | 160 | 447 |
-| last720d | 2024-11-11 | 6 | 434 | 102 | 215 | 280 | 467 |
+| 30d | 2026-10-03 | 0 | 22 | 43 | 3 | 50 | 58 |
+| last60d | 2026-09-03 | 0 | 42 | 77 | 5 | 55 | 111 |
+| 90d | 2026-08-04 | 0 | 69 | 86 | 17 | 72 | 186 |
+| last180d | 2026-05-06 | 0 | 148 | 99 | 27 | 82 | 300 |
+| 360d | 2025-11-07 | 3 | 237 | 102 | 83 | 163 | 447 |
+| last720d | 2024-11-12 | 6 | 433 | 103 | 221 | 283 | 466 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:12:30Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T05:57:22Z._
