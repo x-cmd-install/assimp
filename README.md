@@ -30,9 +30,9 @@ Overall score: **6.9 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v6.0.5` (2026-04-30)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 13,303 · **Forks**: 3,271 · **Open issues**: 3,443 · **Contributors**: 708
+- **Stars**: 13,304 · **Forks**: 3,271 · **Open issues**: 3,445 · **Contributors**: 708
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 2877 · **Open PRs**: 111 · **Closed issues**: 2930 · **Open issues**: 513 · **Commits**: 13041
+- **Releases**: 39 · **Merged PRs**: 2879 · **Open PRs**: 111 · **Closed issues**: 2930 · **Open issues**: 515 · **Commits**: 13043
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 22 | 53 | 4 | 49 | 63 |
-| last60d | 2026-09-05 | 0 | 43 | 85 | 6 | 54 | 116 |
-| 90d | 2026-08-06 | 0 | 70 | 95 | 17 | 70 | 191 |
-| last180d | 2026-05-08 | 0 | 146 | 107 | 28 | 81 | 305 |
-| 360d | 2025-11-09 | 3 | 240 | 110 | 84 | 161 | 452 |
-| last720d | 2024-11-14 | 6 | 436 | 111 | 221 | 282 | 473 |
+| 30d | 2026-10-06 | 0 | 24 | 53 | 4 | 47 | 66 |
+| last60d | 2026-09-06 | 0 | 43 | 83 | 6 | 55 | 119 |
+| 90d | 2026-08-07 | 0 | 72 | 95 | 17 | 72 | 194 |
+| last180d | 2026-05-09 | 0 | 148 | 107 | 28 | 83 | 308 |
+| 360d | 2025-11-10 | 3 | 240 | 110 | 84 | 163 | 455 |
+| last720d | 2024-11-15 | 6 | 438 | 111 | 221 | 283 | 474 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:22:02Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:39:06Z._
