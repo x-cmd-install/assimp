@@ -14,11 +14,11 @@ x install assimp
 
 ## Code insight
 
-Total: **654,058** lines of code across **1509** files in the top 5 languages.
+Total: **654,148** lines of code across **1509** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 214,759 | 53,300 | 39,288 | 744 |
+| Cpp | 214,849 | 53,312 | 39,297 | 744 |
 | Alex | 143,084 | 0 | 2,345 | 14 |
 | CHeader | 117,065 | 61,617 | 25,483 | 728 |
 | Cobol | 65,764 | 1 | 4 | 8 |
@@ -26,13 +26,13 @@ Total: **654,058** lines of code across **1509** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.9 / 10**
+Overall score: **7 / 10**
 
 Lowest-scoring checks:
 
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
-- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -42,56 +42,57 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v6.0.5` (2026-04-30)
-- **Last commit**: 2026-11-07
-- **Assets in release**: 4
+- **Latest**: `v6.0.6` (2026-11-09)
+- **Last commit**: 2026-11-09
+- **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 13,312 · **Forks**: 3,272 · **Open issues**: 3,445 · **Contributors**: 710
+- **Stars**: 13,315 · **Forks**: 3,273 · **Open issues**: 3,447 · **Contributors**: 712
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 2885 · **Open PRs**: 109 · **Closed issues**: 2931 · **Open issues**: 514 · **Commits**: 13048
+- **Releases**: 40 · **Merged PRs**: 2888 · **Open PRs**: 107 · **Closed issues**: 2935 · **Open issues**: 512 · **Commits**: 13051
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 22 | 53 | 4 | 47 | 62 |
-| last60d | 2026-09-09 | 0 | 42 | 84 | 6 | 55 | 121 |
-| 90d | 2026-08-10 | 0 | 70 | 97 | 16 | 72 | 192 |
-| last180d | 2026-05-12 | 0 | 146 | 106 | 28 | 82 | 315 |
-| 360d | 2025-11-13 | 3 | 243 | 108 | 84 | 162 | 456 |
-| last720d | 2024-11-18 | 6 | 440 | 109 | 222 | 282 | 479 |
+| 30d | 2026-10-11 | 1 | 19 | 52 | 7 | 46 | 68 |
+| last60d | 2026-09-11 | 1 | 43 | 84 | 9 | 54 | 127 |
+| 90d | 2026-08-12 | 1 | 71 | 96 | 16 | 65 | 198 |
+| last180d | 2026-05-14 | 1 | 146 | 104 | 32 | 78 | 321 |
+| 360d | 2025-11-15 | 4 | 243 | 106 | 88 | 160 | 462 |
+| last720d | 2024-11-20 | 7 | 439 | 107 | 224 | 280 | 478 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [linux-x64-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/linux-x64-v6.0.5.zip) | 13.7 MiB | `other` |
-| [macos-arm64-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/macos-arm64-v6.0.5.zip) | 8.4 MiB | `native/darwin/arm64` |
-| [windows-x64-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/windows-x64-v6.0.5.zip) | 17.1 MiB | `native/win/x64` |
-| [windows-x86-v6.0.5.zip](https://github.com/assimp/assimp/releases/download/v6.0.5/windows-x86-v6.0.5.zip) | 16.9 MiB | `native/win/x64` |
+| [linux-x64-v6.0.6.zip](https://github.com/assimp/assimp/releases/download/v6.0.6/linux-x64-v6.0.6.zip) | 15.0 MiB | `other` |
+| [macos-arm64-v6.0.6.zip](https://github.com/assimp/assimp/releases/download/v6.0.6/macos-arm64-v6.0.6.zip) | 8.8 MiB | `native/darwin/arm64` |
+| [windows-arm64-v6.0.6.zip](https://github.com/assimp/assimp/releases/download/v6.0.6/windows-arm64-v6.0.6.zip) | 17.2 MiB | `native/win/arm64` |
+| [windows-x64-v6.0.6.zip](https://github.com/assimp/assimp/releases/download/v6.0.6/windows-x64-v6.0.6.zip) | 17.8 MiB | `native/win/x64` |
+| [windows-x86-v6.0.6.zip](https://github.com/assimp/assimp/releases/download/v6.0.6/windows-x86-v6.0.6.zip) | 17.3 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **203** distros on [repology.org](https://repology.org/project/assimp). **49** are ✅ on the latest upstream release, **120** are ⚠️ on an older version.
+Reported by **203** distros on [repology.org](https://repology.org/project/assimp). **4** are ✅ on the latest upstream release, **165** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `6.0.5` | ✅ latest |
-| Debian 14 | `6.0.5` | ✅ latest |
+| Debian unstable | `6.0.5` | ⚠️ outdated |
+| Debian 14 | `6.0.5` | ⚠️ outdated |
 | Debian 13 | `5.4.3` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `6.0.4` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `5.3.1` | ⚠️ outdated |
-| Arch | `6.0.5` | ✅ latest |
-| Homebrew | `6.0.5` | ✅ latest |
-| Fedora rawhide | `6.0.5` | ✅ latest |
-| Nix unstable | `6.0.5` | ✅ latest |
+| Arch | `6.0.5` | ⚠️ outdated |
+| Homebrew | `6.0.5` | ⚠️ outdated |
+| Fedora rawhide | `6.0.5` | ⚠️ outdated |
+| Nix unstable | `6.0.5` | ⚠️ outdated |
 | Void | `5.2.5` | ⚠️ outdated |
 | Alpine edge | `6.0.4` | ⚠️ outdated |
-| openSUSE Tumbleweed | `6.0.5` | ✅ latest |
+| openSUSE Tumbleweed | `6.0.5` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -102,4 +103,4 @@ Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:01:14Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:17:38Z._
