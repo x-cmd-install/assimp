@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 15716000,
       "digest": "sha256:e3293d0579933c544f41e18aae59b1e265a50fd1a26fbe4b6633ea18e985893a",
-      "download_count": 16,
+      "download_count": 30,
       "created_at": "2026-11-09T20:43:43Z",
       "updated_at": "2026-11-09T20:43:44Z",
       "browser_download_url": "https://github.com/assimp/assimp/releases/download/v6.0.6/linux-x64-v6.0.6.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9192257,
       "digest": "sha256:adb952d2e35ffdb44ff2ef55a003b2cdd2ff8f8c788e219dcb04e7b1501224d7",
-      "download_count": 13,
+      "download_count": 23,
       "created_at": "2026-11-09T20:40:49Z",
       "updated_at": "2026-11-09T20:40:50Z",
       "browser_download_url": "https://github.com/assimp/assimp/releases/download/v6.0.6/macos-arm64-v6.0.6.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 17991700,
       "digest": "sha256:03881e806204bc90553d180147032506d007e521453fada3a7846f375dfaff60",
-      "download_count": 12,
+      "download_count": 20,
       "created_at": "2026-11-09T20:40:53Z",
       "updated_at": "2026-11-09T20:40:54Z",
       "browser_download_url": "https://github.com/assimp/assimp/releases/download/v6.0.6/windows-arm64-v6.0.6.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 18664122,
       "digest": "sha256:e610390f681f1afd3a8de88dd32162aa8e9be5a468176517db73ab0c42f75bcc",
-      "download_count": 87,
+      "download_count": 169,
       "created_at": "2026-11-09T20:39:32Z",
       "updated_at": "2026-11-09T20:39:33Z",
       "browser_download_url": "https://github.com/assimp/assimp/releases/download/v6.0.6/windows-x64-v6.0.6.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 18147135,
       "digest": "sha256:860f0960be9b0c5f72e16b1b8a9510d6f3955f9b3c5883a896d79c2072783b2d",
-      "download_count": 10,
+      "download_count": 18,
       "created_at": "2026-11-09T20:39:47Z",
       "updated_at": "2026-11-09T20:39:49Z",
       "browser_download_url": "https://github.com/assimp/assimp/releases/download/v6.0.6/windows-x86-v6.0.6.zip"
