@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,322 · **Forks**: 3,280 · **Open issues**: 3,448 · **Contributors**: 712
+- **Stars**: 13,324 · **Forks**: 3,280 · **Open issues**: 3,448 · **Contributors**: 712
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 2891 · **Open PRs**: 109 · **Closed issues**: 2936 · **Open issues**: 512 · **Commits**: 13091
+- **Releases**: 40 · **Merged PRs**: 2891 · **Open PRs**: 110 · **Closed issues**: 2936 · **Open issues**: 512 · **Commits**: 13091
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 20 | 41 | 8 | 32 | 82 |
-| last60d | 2026-09-15 | 1 | 45 | 86 | 9 | 53 | 141 |
-| 90d | 2026-08-16 | 1 | 71 | 98 | 17 | 65 | 212 |
-| last180d | 2026-05-18 | 1 | 148 | 105 | 33 | 75 | 335 |
-| 360d | 2025-11-19 | 4 | 244 | 108 | 88 | 160 | 476 |
-| last720d | 2024-11-24 | 7 | 437 | 109 | 224 | 280 | 516 |
+| 30d | 2026-10-16 | 1 | 20 | 42 | 8 | 31 | 80 |
+| last60d | 2026-09-16 | 1 | 36 | 68 | 9 | 53 | 121 |
+| 90d | 2026-08-17 | 1 | 70 | 99 | 17 | 65 | 200 |
+| last180d | 2026-05-19 | 1 | 148 | 106 | 33 | 75 | 332 |
+| 360d | 2025-11-20 | 4 | 244 | 109 | 88 | 159 | 471 |
+| last720d | 2024-11-25 | 7 | 435 | 110 | 224 | 280 | 516 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **203** distros on [repology.org](https://repology.org/project/assimp). **18** are ✅ on the latest upstream release, **150** are ⚠️ on an older version.
+Reported by **203** distros on [repology.org](https://repology.org/project/assimp). **24** are ✅ on the latest upstream release, **144** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -88,7 +88,7 @@ Reported by **203** distros on [repology.org](https://repology.org/project/assim
 | Ubuntu 24.04 LTS | `5.3.1` | ⚠️ outdated |
 | Arch | `6.0.6` | ✅ latest |
 | Homebrew | `6.0.6` | ✅ latest |
-| Fedora rawhide | `6.0.5` | ⚠️ outdated |
+| Fedora rawhide | `6.0.6` | ✅ latest |
 | Nix unstable | `6.0.5` | ⚠️ outdated |
 | Void | `5.2.5` | ⚠️ outdated |
 | Alpine edge | `6.0.4` | ⚠️ outdated |
@@ -103,4 +103,4 @@ Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:27:35Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:26:09Z._
