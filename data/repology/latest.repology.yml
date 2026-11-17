@@ -1,21 +1,23 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
+- repo: pclinuxos
   srcname: assimp
-  binnames:
-    - libassimp6
-    - libassimp-dev
-    - libassimp-doc
-    - assimp-utils
-    - python3-pyassimp
-    - assimp-testmodels
   visiblename: assimp
-  version: 6.0.6
-  origversion: 6.0.6+ds-1
-  status: newest
-  maintainers:
-    - umlaeute@debian.org
+  version: 6.0.5
+  origversion: 6.0.5-1pclos2026
+  status: outdated
+  summary: Library to import various 3D model formats into applications
   categories:
-    - graphics
+    - Graphics/3D
+- repo: parabola
+  subrepo: extra
+  srcname: assimp
+  binname: assimp
+  visiblename: assimp
+  version: 6.0.5
+  origversion: 6.0.5-1
+  status: outdated
+  summary: Library to import various well-known 3D model formats in an uniform manner
+  licenses:
+    - BSD-3-Clause
 - repo: aerynos
   srcname: assimp
   visiblename: assimp
@@ -25,18 +27,6 @@
   summary: Open Asset Import Library
   licenses:
     - BSD-3-Clause
-- repo: pkgsrc_2026_2
-  srcname: multimedia/assimp
-  binname: assimp
-  visiblename: multimedia/assimp
-  version: 6.0.5
-  origversion: null
-  status: outdated
-  summary: Library to import various 3D model formats
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - multimedia
 - repo: alpine_3_23
   subrepo: community
   srcname: assimp
@@ -216,18 +206,6 @@
   licenses:
     - BSD-3-Clause
 - repo: aur
-  srcname: mingw-w64-assimp
-  binname: mingw-w64-assimp
-  visiblename: mingw-w64-assimp
-  version: 6.0.6
-  origversion: 6.0.6-1
-  status: newest
-  summary: Portable Open Source library to import various well-known 3D model formats in an uniform manner (mingw-w64)
-  maintainers:
-    - patlefort@aur
-  licenses:
-    - BSD-3-Clause
-- repo: aur
   srcname: assimp-git
   binname: assimp-git
   visiblename: assimp-git
@@ -237,6 +215,18 @@
   summary: Open Asset Importer Library
   maintainers:
     - chocobo1@aur
+  licenses:
+    - BSD-3-Clause
+- repo: aur
+  srcname: mingw-w64-assimp
+  binname: mingw-w64-assimp
+  visiblename: mingw-w64-assimp
+  version: 6.0.6
+  origversion: 6.0.6-1
+  status: newest
+  summary: Portable Open Source library to import various well-known 3D model formats in an uniform manner (mingw-w64)
+  maintainers:
+    - patlefort@aur
   licenses:
     - BSD-3-Clause
 - repo: artix
@@ -320,18 +310,24 @@
     - umlaeute@debian.org
   categories:
     - graphics
-- repo: pkgsrc_2026_3
-  srcname: multimedia/assimp
-  binname: assimp
-  visiblename: multimedia/assimp
-  version: 6.0.5
-  origversion: null
-  status: outdated
-  summary: Library to import various 3D model formats
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: assimp
+  binnames:
+    - libassimp6
+    - libassimp-dev
+    - libassimp-doc
+    - assimp-utils
+    - python3-pyassimp
+    - assimp-testmodels
+  visiblename: assimp
+  version: 6.0.6
+  origversion: 6.0.6+ds-1
+  status: newest
   maintainers:
-    - pkgsrc-users@netbsd.org
+    - umlaeute@debian.org
   categories:
-    - multimedia
+    - graphics
 - repo: exherbo
   subrepo: x11
   srcname: media-libs/assimp
@@ -390,6 +386,40 @@
   version: 6.0.5
   origversion: 6.0.5-6.fc44
   status: outdated
+  summary: Library to import various 3D model formats into applications
+  licenses:
+    - BSD-3-Clause AND MIT AND BSL-1.0 AND Unlicense AND Zlib
+  categories:
+    - Unspecified
+- repo: fedora_45
+  subrepo: updates
+  srcname: assimp
+  binnames:
+    - assimp
+    - assimp-devel
+    - python3-assimp
+    - assimp-doc
+  visiblename: assimp
+  version: 6.0.6
+  origversion: 6.0.6-1.fc45
+  status: newest
+  summary: Library to import various 3D model formats into applications
+  licenses:
+    - BSD-3-Clause AND MIT AND BSL-1.0 AND Unlicense AND Zlib
+  categories:
+    - Unspecified
+- repo: fedora_45
+  subrepo: release
+  srcname: assimp
+  binnames:
+    - assimp
+    - assimp-devel
+    - python3-assimp
+    - assimp-doc
+  visiblename: assimp
+  version: 6.0.5
+  origversion: 6.0.5-5.fc45
+  status: legacy
   summary: Library to import various 3D model formats into applications
   licenses:
     - BSD-3-Clause AND MIT AND BSL-1.0 AND Unlicense AND Zlib
@@ -478,6 +508,18 @@
     - BSD
   categories:
     - graphics
+- repo: pkgsrc_2026_2
+  srcname: multimedia/assimp
+  binname: assimp
+  visiblename: multimedia/assimp
+  version: 6.0.5
+  origversion: null
+  status: outdated
+  summary: Library to import various 3D model formats
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - multimedia
 - repo: mageia_10
   subrepo: core/release
   srcname: assimp
@@ -526,9 +568,9 @@
   srcname: assimp
   binname: assimp
   visiblename: assimp
-  version: 6.0.5
-  origversion: 6.0.5-1
-  status: outdated
+  version: 6.0.6
+  origversion: 6.0.6-1
+  status: newest
   summary: Library to import various well-known 3D model formats in an uniform manner
   licenses:
     - BSD-3-Clause
@@ -606,17 +648,18 @@
     - fallback-mnt-nix@repology
   licenses:
     - BSD-3-Clause
-- repo: parabola
-  subrepo: extra
-  srcname: assimp
+- repo: pkgsrc_2026_3
+  srcname: multimedia/assimp
   binname: assimp
-  visiblename: assimp
+  visiblename: multimedia/assimp
   version: 6.0.5
-  origversion: 6.0.5-1
+  origversion: null
   status: outdated
-  summary: Library to import various well-known 3D model formats in an uniform manner
-  licenses:
-    - BSD-3-Clause
+  summary: Library to import various 3D model formats
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - multimedia
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: assimp
@@ -650,15 +693,6 @@
     - BSD-3-Clause AND MIT
   categories:
     - Unspecified
-- repo: pclinuxos
-  srcname: assimp
-  visiblename: assimp
-  version: 6.0.5
-  origversion: 6.0.5-1pclos2026
-  status: outdated
-  summary: Library to import various 3D model formats into applications
-  categories:
-    - Graphics/3D
 - repo: pkgsrc_current
   srcname: multimedia/assimp
   binname: assimp
@@ -881,24 +915,17 @@
   summary: Portable Open-Source library to import various well-known 3D model formats in a uniform manner
   licenses:
     - BSD-3-Clause
-- repo: devuan_4_0
-  subrepo: chimaera/main
+- repo: nix_stable_25_05
   srcname: assimp
-  binnames:
-    - libassimp5
-    - libassimp-dev
-    - libassimp-doc
-    - assimp-utils
-    - python3-pyassimp
-    - assimp-testmodels
   visiblename: assimp
-  version: 5.0.1
-  origversion: 5.0.1~ds0-2
+  version: 5.4.3
+  origversion: null
   status: outdated
+  summary: Library to import various 3D model formats
   maintainers:
-    - umlaeute@debian.org
-  categories:
-    - graphics
+    - ehmry@posteo.net
+  licenses:
+    - BSD-3-Clause
   vulnerable: true
 - repo: pardus_21
   subrepo: main
@@ -919,17 +946,68 @@
   categories:
     - graphics
   vulnerable: true
-- repo: nix_stable_24_11
+- repo: homebrew
+  srcname: assimp@5
+  visiblename: assimp@5
+  version: 5.4.3
+  origversion: null
+  status: legacy
+  summary: Portable library for importing many well-known 3D model formats
+  vulnerable: true
+- repo: spack
+  srcname: assimp
+  visiblename: assimp
+  version: 6.0.2
+  origversion: null
+  status: outdated
+  maintainers:
+    - wdconinc@spack
+  licenses:
+    - BSD-3-Clause
+  vulnerable: true
+- repo: parrot
+  subrepo: parrot/main
+  srcname: assimp
+  binnames:
+    - libassimp5
+    - libassimp-dev
+    - libassimp-doc
+    - assimp-utils
+    - python3-pyassimp
+    - assimp-testmodels
+  visiblename: assimp
+  version: 5.4.3
+  origversion: 5.4.3+ds-2
+  status: outdated
+  maintainers:
+    - umlaeute@debian.org
+  categories:
+    - graphics
+  vulnerable: true
+- repo: conancenter
   srcname: assimp
   visiblename: assimp
   version: 5.4.3
   origversion: null
+  status: legacy
+  vulnerable: true
+- repo: mx_21_testing
+  srcname: assimp
+  binnames:
+    - libassimp5
+    - libassimp-dev
+    - libassimp-doc
+    - assimp-utils
+    - python3-pyassimp
+    - assimp-testmodels
+  visiblename: assimp
+  version: 5.2.5
+  origversion: 5.2.5~ds0-1~mx21+1
   status: outdated
-  summary: Library to import various 3D model formats
   maintainers:
-    - ehmry@posteo.net
-  licenses:
-    - BSD-3-Clause
+    - stevep@mxlinux.org
+  categories:
+    - graphics
   vulnerable: true
 - repo: adelie_current
   subrepo: user
@@ -1226,7 +1304,7 @@
     - BSD-3-Clause
   vulnerable: true
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: assimp
   binnames:
     - libassimp5
@@ -1243,18 +1321,6 @@
     - umlaeute@debian.org
   categories:
     - graphics
-  vulnerable: true
-- repo: chimera
-  subrepo: main
-  srcname: assimp
-  binname: assimp-doc
-  visiblename: assimp-doc
-  version: 6.0.2
-  origversion: 6.0.2-r0
-  status: outdated
-  summary: Open asset importing library (documentation)
-  licenses:
-    - BSD-3-Clause
   vulnerable: true
 - repo: apertis_v2023
   subrepo: v2023/development
@@ -1381,6 +1447,18 @@
 - repo: chimera
   subrepo: main
   srcname: assimp
+  binname: assimp-doc
+  visiblename: assimp-doc
+  version: 6.0.2
+  origversion: 6.0.2-r0
+  status: outdated
+  summary: Open asset importing library (documentation)
+  licenses:
+    - BSD-3-Clause
+  vulnerable: true
+- repo: chimera
+  subrepo: main
+  srcname: assimp
   binname: assimp-progs
   visiblename: assimp-progs
   version: 6.0.2
@@ -1389,13 +1467,6 @@
   summary: Open asset importing library (programs)
   licenses:
     - BSD-3-Clause
-  vulnerable: true
-- repo: conancenter
-  srcname: assimp
-  visiblename: assimp
-  version: 5.4.3
-  origversion: null
-  status: legacy
   vulnerable: true
 - repo: crux_37
   subrepo: contrib
@@ -1537,6 +1608,25 @@
   categories:
     - graphics
   vulnerable: true
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: assimp
+  binnames:
+    - libassimp5
+    - libassimp-dev
+    - libassimp-doc
+    - assimp-utils
+    - python3-pyassimp
+    - assimp-testmodels
+  visiblename: assimp
+  version: 5.0.1
+  origversion: 5.0.1~ds0-2
+  status: outdated
+  maintainers:
+    - umlaeute@debian.org
+  categories:
+    - graphics
+  vulnerable: true
 - repo: epel_7
   srcname: assimp
   visiblename: assimp
@@ -1620,26 +1710,6 @@
     - Unspecified
   vulnerable: true
 - repo: fedora_40
-  subrepo: release
-  srcname: assimp
-  binnames:
-    - assimp
-    - assimp-devel
-    - python3-assimp
-    - assimp-doc
-    - assimp-debuginfo
-    - assimp-debugsource
-  visiblename: assimp
-  version: 5.2.5
-  origversion: 5.2.5-4.fc40
-  status: legacy
-  summary: Library to import various 3D model formats into applications
-  licenses:
-    - BSD and MIT and Boost and Unlicense and zlib
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: fedora_40
   subrepo: updates
   srcname: assimp
   binnames:
@@ -1653,6 +1723,26 @@
   version: 5.3.1
   origversion: 5.3.1-1.fc40
   status: outdated
+  summary: Library to import various 3D model formats into applications
+  licenses:
+    - BSD and MIT and Boost and Unlicense and zlib
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_40
+  subrepo: release
+  srcname: assimp
+  binnames:
+    - assimp
+    - assimp-devel
+    - python3-assimp
+    - assimp-doc
+    - assimp-debuginfo
+    - assimp-debugsource
+  visiblename: assimp
+  version: 5.2.5
+  origversion: 5.2.5-4.fc40
+  status: legacy
   summary: Library to import various 3D model formats into applications
   licenses:
     - BSD and MIT and Boost and Unlicense and zlib
@@ -1678,6 +1768,24 @@
     - Unspecified
   vulnerable: true
 - repo: fedora_42
+  subrepo: release
+  srcname: assimp
+  binnames:
+    - assimp
+    - assimp-devel
+    - python3-assimp
+    - assimp-doc
+  visiblename: assimp
+  version: 5.3.1
+  origversion: 5.3.1-5.fc42
+  status: outdated
+  summary: Library to import various 3D model formats into applications
+  licenses:
+    - LicenseRef-Callaway-BSD AND LicenseRef-Callaway-MIT AND BSL-1.0 AND Unlicense AND Zlib
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_42
   subrepo: updates
   srcname: assimp
   binnames:
@@ -1695,23 +1803,27 @@
   categories:
     - Unspecified
   vulnerable: true
-- repo: fedora_42
-  subrepo: release
+- repo: nix_stable_24_05
   srcname: assimp
-  binnames:
-    - assimp
-    - assimp-devel
-    - python3-assimp
-    - assimp-doc
   visiblename: assimp
   version: 5.3.1
-  origversion: 5.3.1-5.fc42
+  origversion: null
   status: outdated
-  summary: Library to import various 3D model formats into applications
+  summary: A library to import various 3D model formats
+  maintainers:
+    - ehmry@posteo.net
   licenses:
-    - LicenseRef-Callaway-BSD AND LicenseRef-Callaway-MIT AND BSL-1.0 AND Unlicense AND Zlib
+    - BSD-3-Clause
+  vulnerable: true
+- repo: pclinuxos
+  srcname: assimp
+  visiblename: assimp
+  version: 3.3.1
+  origversion: 3.3.1-2pclos2019
+  status: legacy
+  summary: Library to import various 3D model formats into applications
   categories:
-    - Unspecified
+    - Graphics
   vulnerable: true
 - repo: fedora_43
   subrepo: release
@@ -1770,18 +1882,6 @@
   status: outdated
   summary: Asset import library
   vulnerable: true
-- repo: nix_stable_25_05
-  srcname: assimp
-  visiblename: assimp
-  version: 5.4.3
-  origversion: null
-  status: outdated
-  summary: Library to import various 3D model formats
-  maintainers:
-    - ehmry@posteo.net
-  licenses:
-    - BSD-3-Clause
-  vulnerable: true
 - repo: haikuports_master
   srcname: media-libs/assimp
   visiblename: media-libs/assimp
@@ -1791,14 +1891,6 @@
   categories:
     - media-libs
   vulnerable: true
-- repo: homebrew
-  srcname: assimp@5
-  visiblename: assimp@5
-  version: 5.4.3
-  origversion: null
-  status: legacy
-  summary: Portable library for importing many well-known 3D model formats
-  vulnerable: true
 - repo: liguros_stable
   srcname: media-libs/assimp
   visiblename: media-libs/assimp
@@ -1859,34 +1951,15 @@
   categories:
     - media-libs
   vulnerable: true
-- repo: mageia_9
-  subrepo: core/release
-  srcname: assimp
-  binnames:
-    - assimp
-    - lib64assimp5
-    - lib64assimp-devel
-    - assimp-debuginfo
-    - assimp-debugsource
-  visiblename: assimp
-  version: 5.2.2
-  origversion: 5.2.2-4.mga9
-  status: legacy
-  summary: Library to import various 3D model formats into applications
-  licenses:
-    - BSD and MIT and Boost and unlicense and zlib
-  categories:
-    - Graphics/3D
-  vulnerable: true
-- repo: nix_stable_25_11
+- repo: nix_stable_24_11
   srcname: assimp
   visiblename: assimp
-  version: 6.0.2
+  version: 5.4.3
   origversion: null
   status: outdated
   summary: Library to import various 3D model formats
   maintainers:
-    - fallback-mnt-nix@repology
+    - ehmry@posteo.net
   licenses:
     - BSD-3-Clause
   vulnerable: true
@@ -1928,6 +2001,25 @@
   categories:
     - Graphics/3D
   vulnerable: true
+- repo: mageia_9
+  subrepo: core/release
+  srcname: assimp
+  binnames:
+    - assimp
+    - lib64assimp5
+    - lib64assimp-devel
+    - assimp-debuginfo
+    - assimp-debugsource
+  visiblename: assimp
+  version: 5.2.2
+  origversion: 5.2.2-4.mga9
+  status: legacy
+  summary: Library to import various 3D model formats into applications
+  licenses:
+    - BSD and MIT and Boost and unlicense and zlib
+  categories:
+    - Graphics/3D
+  vulnerable: true
 - repo: mx_21
   subrepo: main
   srcname: assimp
@@ -1947,33 +2039,15 @@
   categories:
     - graphics
   vulnerable: true
-- repo: mx_21_testing
-  srcname: assimp
-  binnames:
-    - libassimp5
-    - libassimp-dev
-    - libassimp-doc
-    - assimp-utils
-    - python3-pyassimp
-    - assimp-testmodels
-  visiblename: assimp
-  version: 5.2.5
-  origversion: 5.2.5~ds0-1~mx21+1
-  status: outdated
-  maintainers:
-    - stevep@mxlinux.org
-  categories:
-    - graphics
-  vulnerable: true
-- repo: nix_stable_24_05
+- repo: nix_stable_25_11
   srcname: assimp
   visiblename: assimp
-  version: 5.3.1
+  version: 6.0.2
   origversion: null
   status: outdated
-  summary: A library to import various 3D model formats
+  summary: Library to import various 3D model formats
   maintainers:
-    - ehmry@posteo.net
+    - fallback-mnt-nix@repology
   licenses:
     - BSD-3-Clause
   vulnerable: true
@@ -2204,6 +2278,19 @@
     - Graphics
   vulnerable: true
 - repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: assimp
+  visiblename: assimp
+  version: 5.2.5
+  origversion: 5.2.5-bp155.1.10
+  status: outdated
+  summary: Library to load and process 3D scenes from various data formats
+  licenses:
+    - BSD-3-Clause AND MIT
+  categories:
+    - Development/Libraries/C and C++
+  vulnerable: true
+- repo: opensuse_leap_15_5
   subrepo: updates/backports
   srcname: assimp
   visiblename: assimp
@@ -2216,12 +2303,12 @@
   categories:
     - Development/Libraries/C and C++
   vulnerable: true
-- repo: opensuse_leap_15_5
+- repo: opensuse_leap_15_6
   subrepo: main/oss
   srcname: assimp
   visiblename: assimp
-  version: 5.2.5
-  origversion: 5.2.5-bp155.1.10
+  version: 5.3.1
+  origversion: 5.3.1-bp156.2.3
   status: outdated
   summary: Library to load and process 3D scenes from various data formats
   licenses:
@@ -2280,48 +2367,6 @@
     - BSD-3-Clause AND MIT
   categories:
     - Development/Libraries/C and C++
-  vulnerable: true
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: assimp
-  visiblename: assimp
-  version: 5.3.1
-  origversion: 5.3.1-bp156.2.3
-  status: outdated
-  summary: Library to load and process 3D scenes from various data formats
-  licenses:
-    - BSD-3-Clause AND MIT
-  categories:
-    - Development/Libraries/C and C++
-  vulnerable: true
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: assimp
-  binnames:
-    - libassimp5
-    - libassimp-dev
-    - libassimp-doc
-    - assimp-utils
-    - python3-pyassimp
-    - assimp-testmodels
-  visiblename: assimp
-  version: 5.4.3
-  origversion: 5.4.3+ds-2
-  status: outdated
-  maintainers:
-    - umlaeute@debian.org
-  categories:
-    - graphics
-  vulnerable: true
-- repo: pclinuxos
-  srcname: assimp
-  visiblename: assimp
-  version: 3.3.1
-  origversion: 3.3.1-2pclos2019
-  status: legacy
-  summary: Library to import various 3D model formats into applications
-  categories:
-    - Graphics
   vulnerable: true
 - repo: pisi_main
   subrepo: main
@@ -2500,17 +2545,6 @@
     - d.zlatanidis@gmail.com
   categories:
     - libraries
-  vulnerable: true
-- repo: spack
-  srcname: assimp
-  visiblename: assimp
-  version: 6.0.2
-  origversion: null
-  status: outdated
-  maintainers:
-    - wdconinc@spack
-  licenses:
-    - BSD-3-Clause
   vulnerable: true
 - repo: ubuntu_14_04
   subrepo: trusty/universe
