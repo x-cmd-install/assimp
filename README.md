@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,327 · **Forks**: 3,280 · **Open issues**: 3,448 · **Contributors**: 712
+- **Stars**: 13,330 · **Forks**: 3,281 · **Open issues**: 3,448 · **Contributors**: 712
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 20 | 43 | 8 | 31 | 82 |
-| last60d | 2026-09-17 | 1 | 37 | 69 | 9 | 53 | 123 |
-| 90d | 2026-08-18 | 1 | 71 | 99 | 16 | 65 | 202 |
-| last180d | 2026-05-20 | 1 | 148 | 107 | 33 | 75 | 334 |
-| 360d | 2025-11-21 | 4 | 245 | 110 | 88 | 158 | 473 |
-| last720d | 2024-11-26 | 7 | 435 | 111 | 224 | 280 | 514 |
+| 30d | 2026-10-18 | 1 | 20 | 43 | 7 | 31 | 82 |
+| last60d | 2026-09-18 | 1 | 36 | 69 | 9 | 52 | 123 |
+| 90d | 2026-08-19 | 1 | 69 | 99 | 16 | 65 | 202 |
+| last180d | 2026-05-21 | 1 | 144 | 107 | 31 | 75 | 334 |
+| 360d | 2025-11-22 | 4 | 245 | 110 | 88 | 158 | 473 |
+| last720d | 2024-11-27 | 7 | 432 | 111 | 222 | 280 | 513 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **202** distros on [repology.org](https://repology.org/project/assimp). **24** are ✅ on the latest upstream release, **144** are ⚠️ on an older version.
+Reported by **204** distros on [repology.org](https://repology.org/project/assimp). **26** are ✅ on the latest upstream release, **143** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -103,4 +103,4 @@ Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:36:53Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:17:44Z._
