@@ -14,11 +14,11 @@ x install assimp
 
 ## Code insight
 
-Total: **654,699** lines of code across **1509** files in the top 5 languages.
+Total: **654,714** lines of code across **1510** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 215,173 | 53,322 | 39,323 | 744 |
+| Cpp | 215,186 | 53,362 | 39,328 | 745 |
 | Alex | 143,084 | 0 | 2,345 | 14 |
 | CHeader | 117,110 | 61,647 | 25,492 | 728 |
 | Cobol | 65,764 | 1 | 4 | 8 |
@@ -26,13 +26,13 @@ Total: **654,699** lines of code across **1509** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7 / 10**
+Overall score: **6.9 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v6.0.6` (2026-11-09)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-18
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 13,330 · **Forks**: 3,281 · **Open issues**: 3,448 · **Contributors**: 712
+- **Stars**: 13,333 · **Forks**: 3,283 · **Open issues**: 3,448 · **Contributors**: 712
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 2892 · **Open PRs**: 111 · **Closed issues**: 2936 · **Open issues**: 512 · **Commits**: 13092
+- **Releases**: 40 · **Merged PRs**: 2893 · **Open PRs**: 111 · **Closed issues**: 2936 · **Open issues**: 512 · **Commits**: 13093
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 20 | 43 | 7 | 31 | 82 |
-| last60d | 2026-09-18 | 1 | 36 | 69 | 9 | 52 | 123 |
-| 90d | 2026-08-19 | 1 | 69 | 99 | 16 | 65 | 202 |
-| last180d | 2026-05-21 | 1 | 144 | 107 | 31 | 75 | 334 |
-| 360d | 2025-11-22 | 4 | 245 | 110 | 88 | 158 | 473 |
-| last720d | 2024-11-27 | 7 | 432 | 111 | 222 | 280 | 513 |
+| 30d | 2026-10-20 | 1 | 19 | 43 | 6 | 30 | 84 |
+| last60d | 2026-09-20 | 1 | 36 | 69 | 9 | 52 | 125 |
+| 90d | 2026-08-21 | 1 | 67 | 97 | 14 | 57 | 204 |
+| last180d | 2026-05-23 | 1 | 144 | 107 | 31 | 75 | 336 |
+| 360d | 2025-11-24 | 4 | 245 | 110 | 88 | 158 | 475 |
+| last720d | 2024-11-29 | 7 | 432 | 111 | 221 | 280 | 512 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **204** distros on [repology.org](https://repology.org/project/assimp). **26** are ✅ on the latest upstream release, **143** are ⚠️ on an older version.
+Reported by **202** distros on [repology.org](https://repology.org/project/assimp). **27** are ✅ on the latest upstream release, **141** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -103,4 +103,4 @@ Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:17:44Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:21:02Z._
