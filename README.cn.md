@@ -38,22 +38,22 @@ x install assimp
 
 ## 流行度
 
-- **Star**: 13,339 · **Fork**: 3,295 · **开放 issue**: 3,454 · **贡献者**: 711
+- **Star**: 13,341 · **Fork**: 3,295 · **开放 issue**: 3,455 · **贡献者**: 711
 
 ## 累计统计
 
-- **发布数**: 40 · **已合并 PR**: 2893 · **开放 PR**: 142 · **已关闭 issue**: 2936 · **开放 issue**: 518 · **提交数**: 13094
+- **发布数**: 40 · **已合并 PR**: 2893 · **开放 PR**: 143 · **已关闭 issue**: 2936 · **开放 issue**: 519 · **提交数**: 13094
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 13 | 60 | 3 | 38 | 38 |
-| last60d | 2026-09-25 | 1 | 34 | 97 | 9 | 59 | 116 |
-| 90d | 2026-08-26 | 1 | 58 | 126 | 11 | 64 | 182 |
-| last180d | 2026-05-28 | 1 | 144 | 138 | 31 | 80 | 327 |
-| 360d | 2025-11-29 | 4 | 242 | 141 | 88 | 164 | 452 |
-| last720d | 2024-12-04 | 7 | 431 | 142 | 218 | 286 | 509 |
+| 30d | 2026-10-26 | 1 | 12 | 60 | 3 | 39 | 38 |
+| last60d | 2026-09-26 | 1 | 34 | 98 | 9 | 60 | 116 |
+| 90d | 2026-08-27 | 1 | 56 | 127 | 11 | 65 | 182 |
+| last180d | 2026-05-29 | 1 | 143 | 138 | 30 | 81 | 327 |
+| 360d | 2025-11-30 | 4 | 242 | 142 | 88 | 165 | 452 |
+| last720d | 2024-12-05 | 7 | 431 | 143 | 215 | 287 | 508 |
 
 ## Release 资产
 
@@ -65,25 +65,6 @@ x install assimp
 | [windows-x64-v6.0.6.zip](https://github.com/assimp/assimp/releases/download/v6.0.6/windows-x64-v6.0.6.zip) | 17.8 MiB | `native/win/x64` |
 | [windows-x86-v6.0.6.zip](https://github.com/assimp/assimp/releases/download/v6.0.6/windows-x86-v6.0.6.zip) | 17.3 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/assimp) 上共有 **202** 个发行版报告此项目。**29** 个 ✅ 已是最新上游版本，**140** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `6.0.5` | 🪦 legacy |
-| Debian 14 | `6.0.5` | ⚠️ outdated |
-| Debian 13 | `5.4.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `6.0.4` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `5.3.1` | ⚠️ outdated |
-| Arch | `6.0.6` | ✅ latest |
-| Homebrew | `6.0.6` | ✅ latest |
-| Fedora rawhide | `6.0.6` | ✅ latest |
-| Nix unstable | `6.0.5` | ⚠️ outdated |
-| Void | `5.2.5` | ⚠️ outdated |
-| Alpine edge | `6.0.4` | ⚠️ outdated |
-| openSUSE Tumbleweed | `6.0.5` | ⚠️ outdated |
-
 ## 改进这些数据
 
 assimp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `assimp` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -93,4 +74,4 @@ assimp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:55:09Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:44:09Z._
