@@ -24,6 +24,16 @@ Total: **654,730** lines of code across **1510** files in the top 5 languages.
 | Cobol | 65,764 | 1 | 4 | 8 |
 | Xml | 41,658 | 13 | 60 | 15 |
 
+## OpenSSF Scorecard
+
+Overall score: **6.9 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
+
 ## Source
 
 - **Upstream**: <https://github.com/assimp/assimp>
@@ -38,22 +48,22 @@ Total: **654,730** lines of code across **1510** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 13,341 · **Forks**: 3,295 · **Open issues**: 3,455 · **Contributors**: 711
+- **Stars**: 13,343 · **Forks**: 3,295 · **Open issues**: 3,455 · **Contributors**: 711
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 2893 · **Open PRs**: 143 · **Closed issues**: 2936 · **Open issues**: 519 · **Commits**: 13094
+- **Releases**: 40 · **Merged PRs**: 2893 · **Open PRs**: 144 · **Closed issues**: 2936 · **Open issues**: 519 · **Commits**: 13094
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 12 | 60 | 3 | 39 | 38 |
-| last60d | 2026-09-26 | 1 | 34 | 98 | 9 | 60 | 116 |
-| 90d | 2026-08-27 | 1 | 56 | 127 | 11 | 65 | 182 |
-| last180d | 2026-05-29 | 1 | 143 | 138 | 30 | 81 | 327 |
-| 360d | 2025-11-30 | 4 | 242 | 142 | 88 | 165 | 452 |
-| last720d | 2024-12-05 | 7 | 431 | 143 | 215 | 287 | 508 |
+| 30d | 2026-10-27 | 1 | 10 | 59 | 3 | 39 | 38 |
+| last60d | 2026-09-27 | 1 | 34 | 99 | 9 | 60 | 116 |
+| 90d | 2026-08-28 | 1 | 55 | 128 | 11 | 65 | 182 |
+| last180d | 2026-05-30 | 1 | 142 | 138 | 30 | 81 | 327 |
+| 360d | 2025-12-01 | 4 | 241 | 143 | 88 | 165 | 452 |
+| last720d | 2024-12-06 | 7 | 430 | 144 | 213 | 287 | 506 |
 
 ## Release assets
 
@@ -74,4 +84,4 @@ Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:44:08Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:36:09Z._
