@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v6.0.6` (2026-11-09)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-26
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 13,343 · **Forks**: 3,295 · **Open issues**: 3,455 · **Contributors**: 711
+- **Stars**: 13,345 · **Forks**: 3,296 · **Open issues**: 3,455 · **Contributors**: 711
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 2893 · **Open PRs**: 144 · **Closed issues**: 2936 · **Open issues**: 519 · **Commits**: 13094
+- **Releases**: 40 · **Merged PRs**: 2894 · **Open PRs**: 145 · **Closed issues**: 2936 · **Open issues**: 519 · **Commits**: 13095
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 10 | 59 | 3 | 39 | 38 |
-| last60d | 2026-09-27 | 1 | 34 | 99 | 9 | 60 | 116 |
-| 90d | 2026-08-28 | 1 | 55 | 128 | 11 | 65 | 182 |
-| last180d | 2026-05-30 | 1 | 142 | 138 | 30 | 81 | 327 |
-| 360d | 2025-12-01 | 4 | 241 | 143 | 88 | 165 | 452 |
-| last720d | 2024-12-06 | 7 | 430 | 144 | 213 | 287 | 506 |
+| 30d | 2026-10-28 | 1 | 10 | 60 | 1 | 30 | 39 |
+| last60d | 2026-09-28 | 1 | 34 | 100 | 8 | 59 | 117 |
+| 90d | 2026-08-29 | 1 | 55 | 129 | 10 | 65 | 183 |
+| last180d | 2026-05-31 | 1 | 143 | 139 | 30 | 81 | 328 |
+| 360d | 2025-12-02 | 4 | 242 | 144 | 88 | 165 | 453 |
+| last720d | 2024-12-07 | 7 | 431 | 145 | 213 | 287 | 507 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for assimp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:36:09Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:40:38Z._
